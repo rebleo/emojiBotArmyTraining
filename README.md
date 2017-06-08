@@ -1,6 +1,6 @@
 # emojiBot Army Training -- Workshop
 
-In this workshop, we'll learn how to build a Twitter Bot in JavaScript, using the Twit node package and our emojis. We will learn how to make "paintings" with emoji data and share them with the world. ❤️🍊💛💚💙💜 
+Code for [ITP Camp 2017](https://itp.nyu.edu/camp2017/). In this workshop, we'll learn how to build a Twitter Bot in JavaScript, using the Twit node package and our emojis. We will learn how to make "paintings" with emoji data and share them with the world. ❤️🍊💛💚💙💜 
 
 
 ## Inspirations:
